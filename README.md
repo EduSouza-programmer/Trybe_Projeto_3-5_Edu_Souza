@@ -353,7 +353,7 @@ body {
   top: 0;
   width: 100%;
   /* background-color: rgb(131, 226, 43); */
-  background-image: url(/cool-background_main.png);
+  background-image: url("https://i.ibb.co/LpqJBpX/cool-background-main.png");
   background-size: cover;
   border-bottom: 3px solid rgba(165, 42, 42, 0.281);
   margin: 0 auto;
@@ -369,7 +369,7 @@ body {
 /* hero */
 
 main {
-  background-image: url(/cool-background_main.png);
+  background-image: url("https://i.ibb.co/LpqJBpX/cool-background-main.png");
   background-size: cover;
   border-bottom: 2px solid rgba(165, 42, 42, 0.281);
 
@@ -504,10 +504,6 @@ main div {
 
 }
 
-
-
-
-
 .licoes-conteiner {
   max-width: 1170px;
   margin: 0px auto;
@@ -566,7 +562,7 @@ main div {
 #rodape {
   text-align: center;
   padding: 20px 0;
-  background-image: url(/cool-background_main.png);
+  background-image: url("https://i.ibb.co/LpqJBpX/cool-background-main.png");
   background-size: cover;
   border-top: 2px solid rgba(165, 42, 42, 0.281);
 }
